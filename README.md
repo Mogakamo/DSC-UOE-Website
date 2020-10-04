@@ -19,7 +19,7 @@ PS: This was just to run the project on local machine, if you want to contribute
 **Feel free to contribute to the project by creating an issue and please make sure to follow the [Contribution Guidelines](Contribution.md)**
 
 
-## Thank You All Contributing :relaxed:.
+## Thank You All For Contributing :relaxed:.
 
 <!-- readme: contributors -start --> 
 <table>
