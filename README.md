@@ -17,6 +17,7 @@ And you are good to go!
 PS: This was just to run the project on local machine, if you want to contribute to the project then follow the instructions in [Contribution.md](Contribution.md).
 
 **Feel free to contribute to the project by creating an issue and please make sure to follow the [Contribution Guidelines](Contribution.md)**
+**Be sure to also go through the [CODE OF CONDUCT](CODE_OF_CONDUCT.md)**
 
 
 ## Thank You All Contributing :relaxed:.
