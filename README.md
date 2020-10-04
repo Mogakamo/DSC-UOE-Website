@@ -25,12 +25,11 @@ PS: This was just to run the project on local machine, if you want to contribute
 <table>
 <tr>
     <td align="center">
-        <a href="https://github.com/">
-            <img src="https://avatars3.githubusercontent.com/u/44673237?v=4" width="100;" alt="zachydev"/>
+        <a href="https://github.com/ZachyDev">
+            <img src="https://avatars3.githubusercontent.com/u/44673237?v=4" width="100;" alt="ZachyDev"/>
             <br />
             <sub><b>Zachary Moseti</b></sub>
         </a>
-    </td>
-</tr>
+    </td></tr>
 </table>
 <!-- readme: contributors -end -->
