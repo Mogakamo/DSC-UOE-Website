@@ -31,6 +31,13 @@ PS: This was just to run the project on local machine, if you want to contribute
             <br />
             <sub><b>Zachary Moseti</b></sub>
         </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/Mogakamo">
+            <img src="https://avatars1.githubusercontent.com/u/61131314?v=4" width="100;" alt="Mogakamo"/>
+            <br />
+            <sub><b>Mogaka Amos N</b></sub>
+        </a>
     </td></tr>
 </table>
 <!-- readme: contributors -end -->
